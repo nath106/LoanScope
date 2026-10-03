@@ -1,6 +1,6 @@
 # LoanScope
 ## Requirements
-- Node.hs 18 or newer
+- Node.js 18 or newer
 
 ## Run it locally
 
