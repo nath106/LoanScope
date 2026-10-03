@@ -7,12 +7,12 @@
 
 1. Clone Repo
 ```
-    git clone
+    git clone https://github.com/nath106/LoanScope
     cd <project-folder>
 ```
 2. Install Dependencies:
 ```
-    pm install
+    npm install
 ```
 3. Start the dev server
 ```
